@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "Learn together. Teach what you know. Grow together. Peer-to-peer skill exchange platform with matching, AI learning companion, real-time messaging, and reputation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
